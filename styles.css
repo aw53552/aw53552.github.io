@@ -1,0 +1,81 @@
+h1 {color: Green; 
+	font-family: Impact; 
+	font-size: 50px;
+	text-align: center;
+	border: 8px solid black;
+}
+p {color: Black; 
+	font-family: Impact;   
+	font-size: 35px;
+	text-align: center;
+}
+#one { font-family: 'Impact';
+    color: red;
+    font-size: 100px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	border: solid red;
+	border-style: dotted;
+	border-width: 10px;
+}
+#two {color: Black; 
+	font-family: Impact;   
+	font-size: 35px;
+	text-align: center;
+	border: 5px solid black;
+}
+.info {color: Black; 
+	font-family: Impact;   
+	font-size: 20px;
+	text-align: left;
+}
+.head {color: Black; 
+	font-family: Impact;   
+	font-size: 35px;
+	text-align: left;
+	border: 5px solid green;
+}
+#five {font-family: 'Impact';
+    color: red;
+    font-size: 80px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	border: solid red;
+	border-width: 10px;
+}
+table, th, td {width: 50%;
+			margin-left: auto;
+			margin-right: auto;
+			font-family: Impact;
+			font-size: 20px;
+			border: 4px solid black;
+			text-align: center;
+			background-color: green;
+			color: white;
+}			   
+img {display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 10px solid green;
+}
+li {color: Black; 
+	font-family: Impact;   
+	font-size: 30px;
+	text-align: left;
+}
+.menu {text-align: center;}
+}
+.link {color: Black; 
+	font-family: Impact;   
+	font-size: 40px;
+	text-align: left;
+	underline: none;
+}
+.important {color: Black; 
+	font-family: Impact;   
+	font-size: 35px;
+	text-align: center;
+	border: 5px solid black;
+}
+span {background-color: yellow;}
